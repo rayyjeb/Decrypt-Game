@@ -1,0 +1,13 @@
+body{
+    background-image: url("./assets/Frame\ 2.png") ;
+    width: auto;
+    height: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+button{
+    margin-left: 70.8%;
+    margin-top: 25%;
+    font-size: 12px;
+    padding: 5px;
+}
